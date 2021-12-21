@@ -10,7 +10,7 @@ vedantu = Webhook.from_url("https://discord.com/api/webhooks/922673692205539388/
 hq = Webhook.from_url("https://discord.com/api/webhooks/922697024380485662/CZmwkLkIMlXURtDtZFJhP8FdRFhsazrhsOCE4_80Hsd1vFM-ssyAJaFRqK-q3UKmP9mT",adapter=RequestsWebhookAdapter())
 swagbucks = Webhook.from_url("https://discord.com/api/webhooks/922698885003091989/ce3TsfFrOFxCS4Nj5nFzE0QrqNTVhsxenN2yLeyN8I8GpdcLqsCJhk0eQzAUL_JmJKSJ",adapter=RequestsWebhookAdapter())
 
-token = "OTA3NjM2MTIyNjgxNzUzNjIw.YYqEAg.XrBltIs25SwcS3axOqh2UkJ18aI"
+token = " "
 techds = ""
 bot =commands.Bot(command_prefix=techds)
 
