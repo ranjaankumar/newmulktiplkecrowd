@@ -80,7 +80,7 @@ async def o(ctx):
 		embed.set_author(name=f"{m.name}#{m.discriminator}", icon_url=m.avatar_url)
 		hq.send(embed=embed)
 		
-	if ctx.message.channel.id == 920520092398256179:  #smart_hq
+	if ctx.message.channel.id == 922713009795788800:  #smart_hq
 		embed=discord.Embed(description="**Went With Option** :one:",color=discord.Colour.random())
 		embed.set_author(name=f"{m.name}#{m.discriminator}", icon_url=m.avatar_url)
 		hq.send(embed=embed)
@@ -148,7 +148,7 @@ async def o(ctx):
 		embed.set_author(name=f"{m.name}#{m.discriminator}", icon_url=m.avatar_url)
 		hq.send(embed=embed)
 		
-	if ctx.message.channel.id == 920520092398256179:  #smart_hq
+	if ctx.message.channel.id == 922713009795788800:  #smart_hq
 		embed=discord.Embed(description="**Went With Option** :two:",color=discord.Colour.random())
 		embed.set_author(name=f"{m.name}#{m.discriminator}", icon_url=m.avatar_url)
 		hq.send(embed=embed)
@@ -213,7 +213,7 @@ async def o(ctx):
 		embed.set_author(name=f"{m.name}#{m.discriminator}", icon_url=m.avatar_url)
 		hq.send(embed=embed)
 		
-	if ctx.message.channel.id == 920520092398256179: #smart_hq
+	if ctx.message.channel.id == 922713009795788800: #smart_hq
 		embed=discord.Embed(description="**Went With Option** :three:",color=discord.Colour.random())
 		embed.set_author(name=f"{m.name}#{m.discriminator}", icon_url=m.avatar_url)
 		hq.send(embed=embed)
