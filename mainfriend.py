@@ -6,9 +6,9 @@ from discord import Webhook, RequestsWebhookAdapter
 pat=[]
 
 
-vedantu = Webhook.from_url("https://discord.com/api/webhooks/922673692205539388/26QGscVp2hvE2mZUlOwATX_RVA-FZaLEgdI3PmUWtA-woECwWEbktlCA4DaIMj2swcz5",adapter=RequestsWebhookAdapter())
-hq = Webhook.from_url("https://discord.com/api/webhooks/922697024380485662/CZmwkLkIMlXURtDtZFJhP8FdRFhsazrhsOCE4_80Hsd1vFM-ssyAJaFRqK-q3UKmP9mT",adapter=RequestsWebhookAdapter())
-swagbucks = Webhook.from_url("https://discord.com/api/webhooks/922698885003091989/ce3TsfFrOFxCS4Nj5nFzE0QrqNTVhsxenN2yLeyN8I8GpdcLqsCJhk0eQzAUL_JmJKSJ",adapter=RequestsWebhookAdapter())
+vedantu = Webhook.from_url("https://discord.com/api/webhooks/927618423595368460/ILPemTzfIdNddo5rVNg_HR5Gbr69R-VRoiUpeSHseuolFlOxIKqnF_IDN7XYmbIJiPE_",adapter=RequestsWebhookAdapter())
+hq = Webhook.from_url("https://discord.com/api/webhooks/927618593464664084/xOKYMiXrAPp6cq0ZLdGg1sls1DKK8GJxQ1hbvE4Uj00PuOCOBAowww8nR4IxwR7PWHkG",adapter=RequestsWebhookAdapter())
+swagbucks = Webhook.from_url("https://discord.com/api/webhooks/927619855136477224/IFJyNwhUiisRa1pct0TaqBvZrjmu0zwjtshJnVVQl_Zo8yYzNwUKNgpV4kDfG-azwegf",adapter=RequestsWebhookAdapter())
 
 token = "OTA3NjM2MTIyNjgxNzUzNjIw.YYqEAg.XrBltIs25SwcS3axOqh2UkJ18aI "
 techds = ""
