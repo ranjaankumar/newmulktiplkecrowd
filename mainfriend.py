@@ -23,7 +23,7 @@ async def on_ready():
 @bot.command(name="1")
 async def o(ctx):
 	m=ctx.message.author
-	if ctx.message.channel.id == 920855533077020765:  #stardom_swagbucks
+	if ctx.message.channel.id == 924645053987713085:  #stardom_swagbucks
 		embed=discord.Embed(description="**Went With Option** :one:",color=discord.Colour.random())
 		embed.set_author(name=f"{m.name}#{m.discriminator}", icon_url=m.avatar_url)
 		swagbucks.send(embed=embed)
@@ -50,7 +50,7 @@ async def o(ctx):
 		
         
 		
-	if ctx.message.channel.id == 893400610957832202:  #daynite_swagbucks
+	if ctx.message.channel.id == 926894350015819887:  #daynite_swagbucks
 		embed=discord.Embed(description="**Went With Option** :one:",color=discord.Colour.random())
 		embed.set_author(name=f"{m.name}#{m.discriminator}", icon_url=m.avatar_url)
 		swagbucks.send(embed=embed)
@@ -113,12 +113,12 @@ async def o(ctx):
 		vedantu.send(embed=embed)
 		
 		
-	if ctx.message.channel.id == 920855533077020765:  #stardom_swagbucks
+	if ctx.message.channel.id == 924645053987713085:  #stardom_swagbucks
 		embed=discord.Embed(description="**Went With Option** :two:",color=discord.Colour.random())
 		embed.set_author(name=f"{m.name}#{m.discriminator}", icon_url=m.avatar_url)
 		swagbucks.send(embed=embed)
 		
-	if ctx.message.channel.id == 893400610957832202:  #dayniye_swagbucks
+	if ctx.message.channel.id == 926894350015819887:  #dayniye_swagbucks
 		embed=discord.Embed(description="**Went With Option** :two:",color=discord.Colour.random())
 		embed.set_author(name=f"{m.name}#{m.discriminator}", icon_url=m.avatar_url)
 		swagbucks.send(embed=embed)
@@ -178,12 +178,12 @@ async def o(ctx):
 		embed.set_author(name=f"{m.name}#{m.discriminator}", icon_url=m.avatar_url)
 		vedantu.send(embed=embed)
 		
-	if ctx.message.channel.id == 920855533077020765: #stardom_swagbucks
+	if ctx.message.channel.id == 924645053987713085: #stardom_swagbucks
 		embed=discord.Embed(description="**Went With Option** :three:",color=discord.Colour.random())
 		embed.set_author(name=f"{m.name}#{m.discriminator}", icon_url=m.avatar_url)
 		swagbucks.send(embed=embed)
 		
-	if ctx.message.channel.id == 893400610957832202: #dayniye_swagbucks
+	if ctx.message.channel.id == 926894350015819887: #dayniye_swagbucks
 		embed=discord.Embed(description="**Went With Option** :three:",color=discord.Colour.random())
 		embed.set_author(name=f"{m.name}#{m.discriminator}", icon_url=m.avatar_url)
 		swagbucks.send(embed=embed)
