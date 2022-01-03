@@ -7,8 +7,8 @@ pat=[]
 
 
 vedantu = Webhook.from_url("https://discord.com/api/webhooks/927618423595368460/ILPemTzfIdNddo5rVNg_HR5Gbr69R-VRoiUpeSHseuolFlOxIKqnF_IDN7XYmbIJiPE_",adapter=RequestsWebhookAdapter())
-hq = Webhook.from_url("https://discord.com/api/webhooks/927618593464664084/xOKYMiXrAPp6cq0ZLdGg1sls1DKK8GJxQ1hbvE4Uj00PuOCOBAowww8nR4IxwR7PWHkG",adapter=RequestsWebhookAdapter())
-swagbucks = Webhook.from_url("https://discord.com/api/webhooks/927619855136477224/IFJyNwhUiisRa1pct0TaqBvZrjmu0zwjtshJnVVQl_Zo8yYzNwUKNgpV4kDfG-azwegf",adapter=RequestsWebhookAdapter())
+hq = Webhook.from_url("https://discord.com/api/webhooks/927619855136477224/IFJyNwhUiisRa1pct0TaqBvZrjmu0zwjtshJnVVQl_Zo8yYzNwUKNgpV4kDfG-azwegf",adapter=RequestsWebhookAdapter())
+swagbucks = Webhook.from_url("https://discord.com/api/webhooks/927618593464664084/xOKYMiXrAPp6cq0ZLdGg1sls1DKK8GJxQ1hbvE4Uj00PuOCOBAowww8nR4IxwR7PWHkG",adapter=RequestsWebhookAdapter())
 
 token = "OTA3NjM2MTIyNjgxNzUzNjIw.YYqEAg.XrBltIs25SwcS3axOqh2UkJ18aI "
 techds = ""
